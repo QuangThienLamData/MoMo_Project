@@ -67,17 +67,19 @@ After calculating the Recency-Frequency-Monetary (R-F-M) metrics, I applied the 
 - Users tended to use the top-up service of MoMo in the weekend anhd on Monday. To encourage users to conduct transactions on weekends and Mondays, MoMo could collaborate with mobile network providers to propose recharging discounts to users through SMS who top up their phone accounts on the MoMo platform during those days.
 - Among the 6 user segments, three low-spending clusters contribute significantly to MoMo’s revenue, accounting for 72% of the total. Surprisingly, the most profitable cluster consists of low-moderate spenders, representing just over 15% of users but contributing 30% of total revenue. Meanwhile, although the ‘lowest spending users’ and ‘low spending users’ clusters comprised 80% of users, generate only 40% of revenue. Additionally, the remaining three clusters, representing just 5% of users, show untapped profit potential by contributing 30% of total revenue.
 # Strategies for enhancing the experience of each cluster of users
-**Enhance Retention of low-moderate spending users**
-- Personalized offers and loyalty programs: Exclusive benefits to maintain satisfaction and spending.
-- Exceptional customer service: Top-notch support for this cluster of users to potentially convert moderate and high spending users.
-- Targeted marketing: Highlight additional services and benefits to boost loyalty.
-- Implement a Customer Loyalty Program: Loyalty programs can include discounts, rewards, or exclusive offers.
-**Engage more users to become a part of clusters above morderate spending**
-- Exceptional priviledge: High rate of cashback for transactions with high value.
-- Provide Excellent Customer Service: Address inquiries promptly and resolve issues effectively.
-- Invite to become a exclusive membership: Exceptional support service, offering tremendous incentives for repeating purchases, exclusive gift: free cellphone plan 4G data, MoMo point, vouchers of others services, etc
-**Educate and Convert Low Engagement Users**
-- Educational campaigns: Teach the benefits of using MoMo Top Up for regular payments.
-- Introductory promotions: Attractive offers to encourage frequent use.
-- Simplify user experience: Remove barriers for easier access and use.
+- **Enhance Retention of low-moderate spending users**
+  - Personalized offers and loyalty programs: Exclusive benefits to maintain satisfaction and spending.
+  - Exceptional customer service: Top-notch support for this cluster of users to potentially convert moderate and high spending users.
+  - Targeted marketing: Highlight additional services and benefits to boost loyalty.
+  - Implement a Customer Loyalty Program: Loyalty programs can include discounts, rewards, or exclusive offers.
+  
+- **Engage more users to become a part of clusters above morderate spending**
+  - Exceptional priviledge: High rate of cashback for transactions with high value.
+  - Provide Excellent Customer Service: Address inquiries promptly and resolve issues effectively.
+  - Invite to become a exclusive membership: Exceptional support service, offering tremendous incentives for repeating purchases, exclusive gift: free cellphone plan 4G data, MoMo point, vouchers of others services, etc
+
+- **Educate and Convert Low Engagement Users**
+  - Educational campaigns: Teach the benefits of using MoMo Top Up for regular payments.
+  - Introductory promotions: Attractive offers to encourage frequent use.
+  - Simplify user experience: Remove barriers for easier access and use.
 THE END!!!
