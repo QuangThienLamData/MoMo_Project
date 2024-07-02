@@ -62,6 +62,7 @@ After calculating the Recency-Frequency-Monetary (R-F-M) metrics, I applied the 
 - Cluster 3: 'Top spending users' had monetary value above 2.000.000d.
 - Cluster 4: 'High spending users' had monetary value ranging from 400.000d to 1.000.000d and mean monetary is 527.000d.
 - Cluster 5: 'Low speding users' had monetary value ranging from 40.000d to 70.000d and mean monetary is 50.000d.
-![image](https://github.com/QuangThienLamData/MoMo_Project/assets/138430723/9a8f3f53-0aba-4ecd-ba36-46882672b285)
+![image](https://github.com/QuangThienLamData/MoMo_Project/assets/138430723/1686f13a-a471-4991-a6c7-d0fce10f659f)
 ![image](https://github.com/QuangThienLamData/MoMo_Project/assets/138430723/6b1d3c7f-94a5-42ad-b99b-0b56a2f030e0)
-
+- Users tended to use the top-up service of MoMo in the weekend anhd on Monday. To encourage users to conduct transactions on weekends and Mondays, MoMo could collaborate with mobile network providers to propose recharging discounts to users through SMS who top up their phone accounts on the MoMo platform during those days.
+- Among the 6 user segments, three low-spending clusters contribute significantly to MoMo’s revenue, accounting for 72% of the total. Surprisingly, the most profitable cluster consists of low-moderate spenders, representing just over 15% of users but contributing 30% of total revenue. Meanwhile, although the ‘lowest spending users’ and ‘low spending users’ clusters comprised 80% of users, generate only 40% of revenue. Additionally, the remaining three clusters, representing just 5% of users, show untapped profit potential by contributing 30% of total revenue.
