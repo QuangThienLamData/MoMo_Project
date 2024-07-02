@@ -34,6 +34,7 @@ Finally, Importing those tables from python into MSSQL SERVER for data modeling.
   - Half of the users who recharge their phone accounts using MoMo use Viettel SIM cards.
   - Recharging for user's own phone account is the dominant method.
 - Detailed Analysis
+
 | min_amount |	second_quartile |	median |	mean_amount |	third_quartile |	max_amount |	standard_deviation |
 |------------|------------------|--------|--------------|----------------|-------------|---------------------|
 | 10000	     | 20000	          | 30000	 | 51471	      | 50000	         | 2500000	   | 73315.346766        |
