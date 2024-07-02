@@ -50,5 +50,18 @@ MoMo’s highest average profit comes from users on the Vinaphone mobile network
 ![image](https://github.com/QuangThienLamData/MoMo_Project/assets/138430723/531544aa-f605-4c0e-a6c9-022778350adb)
 ![image](https://github.com/QuangThienLamData/MoMo_Project/assets/138430723/0dfd621e-e9e0-404e-aaa1-f66e526a612f)
 The number of new users has gradually decreased over time, while the rate of repeat transactions from existing users remains low. To address this, MoMo should implement a targeted promotion and marketing campaign for top-up services, along with robust after-service policies to retain existing users.
+# RFM Segmentation
+The RFM model is based on three quantitative factors:
+- Recency: How recently a customer has made a purchase
+- Frequency: How often a customer makes a purchase
+- Monetary value: How much money a customer spends on purchases
+After calculating the Recency-Frequency-Monetary (R-F-M) metrics, I applied the k-means clustering algorithm to segment MoMo’s user base into six distinct clusters. The result of k-means mainly based on monetary value.
+- Cluster 0: 'Low-moderate spending users' had monetary value ranging from 80.000d to 150.000d and mean monetary is 100.000d.
+- Cluster 1: 'Lowest spending users' had monetary value ranging from 10.000d to 30.000d and mean monetary is 16.750d.
+- Cluster 2: 'Moderate spending users' had monetary ranging from 200.000d to 360.000d and mean monetary is 220.400d.
+- Cluster 3: 'Top spending users' had monetary value above 2.000.000d.
+- Cluster 4: 'High spending users' had monetary value ranging from 400.000d to 1.000.000d and mean monetary is 527.000d.
+- Cluster 5: 'Low speding users' had monetary value ranging from 40.000d to 70.000d and mean monetary is 50.000d.
+![image](https://github.com/QuangThienLamData/MoMo_Project/assets/138430723/9a8f3f53-0aba-4ecd-ba36-46882672b285)
 ![image](https://github.com/QuangThienLamData/MoMo_Project/assets/138430723/6b1d3c7f-94a5-42ad-b99b-0b56a2f030e0)
 
