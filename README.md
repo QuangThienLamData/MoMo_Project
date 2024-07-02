@@ -38,5 +38,6 @@ Finally, Importing those tables from python into MSSQL SERVER for data modeling.
 | min_amount |	second_quartile |	median |	mean_amount |	third_quartile |	max_amount |	standard_deviation |
 |------------|------------------|--------|--------------|----------------|-------------|---------------------|
 | 10000	     | 20000	          | 30000	 | 51471	      | 50000	         | 2500000	   | 73315.346766        |
+
 ![image](https://github.com/QuangThienLamData/MoMo_Project/assets/138430723/6b1d3c7f-94a5-42ad-b99b-0b56a2f030e0)
 
