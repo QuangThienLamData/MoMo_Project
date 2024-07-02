@@ -13,7 +13,7 @@ The analysis consists of five steps:
 - Use python to process raw data and convert data into a consistent format (Momo_project_datacleaning).
 - Import cleaned data into MSSQL SERVER for data modeling (data_modeling).
 - Conduct an in-depth analysis of MoMo's top-up business (Momo_project_DA).
-- Conduct user segmentation based on RFM method with k-means clustering algorithm.
+- Conduct user segmentation based on RFM method with k-means clustering algorithm (Momo_RFM). 
 - Import data from MSSQL SERVER to PowerBI to create perfromance-tracking dashboard.
 # Data cleaning
 - Users table
@@ -35,9 +35,9 @@ Finally, Importing those tables from python into MSSQL SERVER for data modeling.
   - Recharging for user's own phone account was the dominant method.
 - Detailed Analysis
 
-| min_amount |	second_quartile |	median |	mean_amount |	third_quartile |	max_amount |	standard_deviation |
-|------------|------------------|--------|--------------|----------------|-------------|---------------------|
-| 10000	     | 20000	          | 30000	 | 51471	      | 50000	         | 2500000	   | 73315.346766        |
+| min_amount |	second_quartile |	median |	mean_amount |	`third_quartile` |	max_amount |	standard_deviation |
+|------------|------------------|--------|--------------|------------------|-------------|---------------------|
+| 10000	     | 20000	          | 30000	 | 51471	      | `50000`	         | 2500000	   | 73315.346766        |
 
 ![image](https://github.com/QuangThienLamData/MoMo_Project/assets/138430723/cef65f36-c6d6-4850-a119-3a1f95bb1c3d)
 
