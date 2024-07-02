@@ -15,6 +15,12 @@ The analysis consists of five steps:
 - Conduct an in-depth analysis of MoMo's top-up business (Momo_project_DA).
 - Conduct user segmentation based on RFM method with k-means clustering algorithm.
 - Import data from MSSQL SERVER to PowerBI to create perfromance-tracking dashboard.
+# Data cleaning
+- Users table
+  - Remove duplicated user_id in users table
+  - Correct the data integrity, consitence of column `location` and `gender` in user table
+  - Checking the logic of `first_tran_date` column and correct it
+  - Change data type of `first_tran_date` column
 # The analysis
 ![image](https://github.com/QuangThienLamData/MoMo_Project/assets/138430723/6b1d3c7f-94a5-42ad-b99b-0b56a2f030e0)
 
