@@ -82,4 +82,14 @@ After calculating the Recency-Frequency-Monetary (R-F-M) metrics, I applied the 
   - Educational campaigns: Teach the benefits of using MoMo Top Up for regular payments.
   - Introductory promotions: Attractive offers to encourage frequent use.
   - Simplify user experience: Remove barriers for easier access and use.
+
+# Limitations of the Analysis
+- Temporal Scope: The dataset exclusively covers transactional data from the year 2020. Expanding the temporal scope could enhance our understanding of user behavior over time.
+- Algorithmic Exploration: We focused on k-means clustering, but other algorithms (e.g., hierarchical clustering, DBSCAN) remain unexplored. Evaluating various clustering and classification methods would yield a more robust segmentation.
+- Segment Characterization: Although we identified user segments, we haven’t delved deeply into their unique characteristics. Further analysis is necessary to understand their preferences, needs, and behaviors.
+# Future Directions
+- Customer Lifetime Value (CLV): Calculate CLV for all users and within each segment. This metric informs personalized marketing efforts and retention strategies.
+- Algorithm Selection: Experiment with different clustering and classification algorithms. Rigorous evaluation will help identify the most suitable approach for our specific dataset.
+- Segment Profiling: Conduct in-depth profiling of each user segment. Explore demographics, purchase patterns, and engagement levels to tailor marketing campaigns effectively.
+
 THE END!!!
